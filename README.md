@@ -43,6 +43,25 @@ go run main.go
 - PostgreSQL
 - GORM
 
+## Test Cases
+
+POST - Create Book
+
+![Postman image of test for create book](https://github.com/Albert-Osei/go-fiber-app/blob/main/img/Create_book.png)
+
+
+GET - Fetch All Books
+
+![Postman image of test for fetch books](https://github.com/Albert-Osei/go-fiber-app/blob/main/img/Fetch_books.png)
+
+
+GET - Fetch Single Book
+
+![Postman image of test for fetch single book](https://github.com/Albert-Osei/go-fiber-app/blob/main/img/Fetch_one_book.png)
+
+DELETE - Remove Book
+
+![Postman image of test for deleting one book](https://github.com/Albert-Osei/go-fiber-app/blob/main/img/Delete_book.png)
 
 ## 📝 Copyright
 
